@@ -8,6 +8,7 @@ Welcome to the FIN 221 course workspace! This repository is organized to help yo
 - `assignments/`: Homework and assignments
 - `projects/`: Course projects
 - `YeildCurve/`: An experiment to extract the US Treasury OTR Yield Curve from FRED
+- .env holds the FRED_API_KEY key and is .gitignored for GitHub
 
 ## Getting Started
 
