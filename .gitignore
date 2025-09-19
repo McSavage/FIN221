@@ -6,6 +6,9 @@ __pycache__/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
+# Ignore generated stitched futures CSV
+futures_stitched.csv
+
 # VS Code settings
 .vscode/
 
@@ -18,3 +21,9 @@ ENV/
 # Mac and Windows system files
 .DS_Store
 Thumbs.db
+
+# Ignore the local futures data sample folder (contains large CSVs)
+assignments/Futures\ Data\ Sample/
+
+# Ignore local Word homework file
+FIN221_HW1.docx
